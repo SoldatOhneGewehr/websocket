@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/tunahasirci/Desktop/websocket/build",
+  "command": "/usr/bin/clang++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/tunahasirci/Desktop/websocket/include -g -std=gnu++23 -g -O0 -Wall -Wextra -march=native -o CMakeFiles/websocket.dir/src/main.cpp.o -c /home/tunahasirci/Desktop/websocket/src/main.cpp",
+  "file": "/home/tunahasirci/Desktop/websocket/src/main.cpp",
+  "output": "CMakeFiles/websocket.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tunahasirci/Desktop/websocket/build",
+  "command": "/usr/bin/clang++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/tunahasirci/Desktop/websocket/include -g -std=gnu++23 -g -O0 -Wall -Wextra -march=native -o CMakeFiles/websocket.dir/src/Websocket.cpp.o -c /home/tunahasirci/Desktop/websocket/src/Websocket.cpp",
+  "file": "/home/tunahasirci/Desktop/websocket/src/Websocket.cpp",
+  "output": "CMakeFiles/websocket.dir/src/Websocket.cpp.o"
+},
+{
+  "directory": "/home/tunahasirci/Desktop/websocket/build",
+  "command": "/usr/bin/clang++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/tunahasirci/Desktop/websocket/include -g -std=gnu++23 -g -O0 -Wall -Wextra -march=native -o CMakeFiles/websocket.dir/src/JsonParser.cpp.o -c /home/tunahasirci/Desktop/websocket/src/JsonParser.cpp",
+  "file": "/home/tunahasirci/Desktop/websocket/src/JsonParser.cpp",
+  "output": "CMakeFiles/websocket.dir/src/JsonParser.cpp.o"
+}
+]

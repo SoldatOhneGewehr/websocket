@@ -1,0 +1,3 @@
+/home/tunahasirci/Desktop/websocket/build/CMakeFiles/websocket.dir
+/home/tunahasirci/Desktop/websocket/build/CMakeFiles/edit_cache.dir
+/home/tunahasirci/Desktop/websocket/build/CMakeFiles/rebuild_cache.dir
