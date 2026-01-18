@@ -11,3 +11,4 @@ private:
     // Internal method to handle parsing logic
     void parseInternal(const std::string& jsonString);
 };
+

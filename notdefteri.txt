@@ -1,2 +1,0 @@
-Gemini: Interesting chatine bak. Buffer overflowu iyice anla. SPSC ne iyice ogren. SPSC latency olcmeye bak
-"{\"e\":\"24hrMiniTicker\",\"E\":1767690427029,\"s\":\"BTCUSDT\",\"c\":\"93494.70000000\",\"o\":\"92375.57000000\",\"h\":\"94789.08000000\",\"l\":\"92355.46000000\",\"v\":\"16424.90126000\",\"q\":\"1538422290.51061580\"}"

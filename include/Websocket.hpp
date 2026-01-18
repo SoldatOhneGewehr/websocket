@@ -35,4 +35,4 @@ tcp::resolver resolver_{ioc_};
 net::io_context ioc_;
 ssl::context ctx_{ssl::context::sslv23_client};
 websocket::stream<beast::ssl_stream<tcp::socket>> ws_{ioc_, ctx_};
-};
+};aa
